@@ -1,2 +1,4 @@
 # Simple-Line-Graph-Example3
- Combines example 1 and 2 into a fully fleshed out UI for comparing different function types and their behavior.
+ Combines example 1 and 2 to allow multiple graphs of different types and groups to be displayed side-by-side.
+ 
+ Created in Unity 2020.3.11f1
